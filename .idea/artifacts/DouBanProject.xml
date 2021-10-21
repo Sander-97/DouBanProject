@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DouBanProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/DouBanProject</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DouBanProject/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DouBanProject" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
